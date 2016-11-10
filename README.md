@@ -1,2 +1,2 @@
 # Chess
-Short but sweet chess game
+Nothing here yet!
